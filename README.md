@@ -25,7 +25,13 @@ Trace File: Final Task testrun.pcapng contains the packet-level capture of the c
 Verification: Confirms successful 3-way handshakes and the efficient transmission of game-state data segments.
 
 
-IV. Credits
+IV. Documentation
+
+1. In the docs folder, a presentation explaining the core concept and functionality of the python chatroom and the rock paper scissors(rps) game is explained along with the images of the python sockets and the wireshark trace that shows the successful 3 way handshake to confirm the connection between the server and client.
+2. In the analysis folder, a pcapng file showing the wireshark trace of the connection between the server and client is present that shows the successful connection between the server and client.
+
+
+V. Credits
 
 1. Anirudh Gopishankar
 
