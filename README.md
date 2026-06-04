@@ -1,4 +1,4 @@
-# Computer_Networks
+# Server-Client Connection using sockets in Python
 
 I. Multi-Node Chatroom & RPS Game Engine
 
